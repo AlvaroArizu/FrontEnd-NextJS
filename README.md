@@ -4,7 +4,7 @@ Este proyecto fue creado utilizando Next.js, un framework de React que permite l
 
 ## Descripción
 
-Mercado Liebre es una aplicación web inspirada en el popular sitio de comercio electrónico MercadoLibre. Permite a los usuarios buscar y explorar una amplia variedad de productos disponibles en la plataforma. La aplicación ofrece una interfaz intuitiva y amigable para los usuarios, permitiéndoles encontrar fácilmente lo que están buscando y realizar compras de manera segura.
+Mercado Liebre es una aplicación web inspirada en el popular sitio de comercio electrónico MercadoLibre. Utiliza la API pública de Mercado Libre (https://api.mercadolibre.com/sites/MLA) para acceder a una amplia variedad de productos disponibles en la plataforma. Los usuarios pueden buscar y explorar estos productos de manera fácil e intuitiva, permitiéndoles realizar compras de manera segura.
 
 ## Instalación y Uso
 
@@ -18,5 +18,10 @@ Para comenzar, sigue estos pasos:
 ## Contribución
 
 Si deseas contribuir al proyecto, ¡te damos la bienvenida! Puedes crear un "issue" para discutir nuevas características o problemas encontrados, o enviar una solicitud de extracción con tus mejoras.
+
+
+
+
+
 
 
