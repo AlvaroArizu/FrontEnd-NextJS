@@ -20,17 +20,3 @@ Para comenzar, sigue estos pasos:
 Si deseas contribuir al proyecto, ¡te damos la bienvenida! Puedes crear un "issue" para discutir nuevas características o problemas encontrados, o enviar una solicitud de extracción con tus mejoras.
 
 
-
-
-First, run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-
